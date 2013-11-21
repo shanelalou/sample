@@ -1,0 +1,44 @@
+html { 
+	height: 100%;
+}
+
+body { 
+	height: 100%; 
+	margin: 0; 
+	padding: 0;
+}
+
+#content {
+	width: 96%;
+	padding-left: 2%;
+	overflow: scroll;
+	-webkit-overflow-scrolling: touch;
+	color: #333;
+}
+
+h3 {
+	text-align: center;
+}
+
+.gclogo{
+ margin-top:20px;
+ 	text-align: center;
+}
+.ayos{
+margin-left:20px;
+margin-right:20px;
+margin-top:10px;"
+}
+
+p {
+	margin-left:40px;
+	margin-right:40px;
+	text-align:justify;
+}
+font
+{
+font-family:Century Gothic;
+}
+h2{
+text-align:center;
+}
